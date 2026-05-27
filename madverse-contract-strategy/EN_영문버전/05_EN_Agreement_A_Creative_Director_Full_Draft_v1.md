@@ -134,7 +134,7 @@ The Creative Company shall not be responsible for:
 
 ## 8. Equity or Option Incentive
 
-8.1 As long-term success incentive for KHS's creative contribution, the China Party shall grant the Creative Company or its designated equity holding entity strategic equity or an equity option in `[project company / holding company]`.
+8.1 As long-term success incentive for KHS's creative contribution, the China Party shall grant the Creative Company or its designated equity holding entity a 30% strategic equity interest or 30% equity option in `[project company / holding company]`.
 
 8.2 Such equity or option shall be documented in a separate Equity / Option Side Letter.
 
@@ -142,7 +142,7 @@ The Creative Company shall not be responsible for:
 
 8.4 The equity or option shall not impose personal liability, capital contribution obligation, operating loss obligation, listing obligation, or guarantee obligation on KHS or the Creative Company unless separately agreed in writing.
 
-8.5 The equity or option shall be transferable, sellable, waivable, or trustable if required by Korean public office, conflict-of-interest, tax, regulatory, blind trust, or compliance requirements.
+8.5 The equity or option shall be transferable, sellable, waivable, cash-settleable, or trustable if required by Korean public office, conflict-of-interest, tax, foreign exchange, regulatory, blind trust, or compliance requirements.
 
 ---
 

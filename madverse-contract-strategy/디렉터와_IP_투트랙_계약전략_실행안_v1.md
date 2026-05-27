@@ -19,11 +19,11 @@
 중국 측
  ├─ 피디님 법인 또는 피디님 개인
  │  = Creative Director / Executive Producer / New IP Development / Music Supervision
- │  = 현금 45억~47억 + 전략지분 또는 옵션
+ │  = 현금 45억~47억 + 30% 전략지분 또는 30% 지분 옵션
  │
  └─ 노느니
     = SAGONG EE HO Limited IP License
-    = 현금 3억~5억
+    = 선급/최소보장금 3억~5억 + 매출연동 러닝 로열티
 ```
 
 핵심은 세 가지입니다.
@@ -31,7 +31,7 @@
 | 축 | 판단 | 실행 |
 |---|---|---|
 | 피디님 | 중국이 원하는 핵심 자산 | 큰 금액과 지분/옵션은 피디님 법인 또는 피디님에게 둠 |
-| 노느니 | 사공이호 IP 권리자 | 제한적 IP 사용료와 승인권만 둠 |
+| 노느니 | 사공이호 IP 권리자 | 선급/최소보장금, 매출연동 러닝 로열티, 승인권을 둠 |
 | JV | 중국측 초안의 외형 | 기본적으로 해체하고, 필요 시 지분/옵션 문서만 별도화 |
 
 확신도: 90(근거: 중국측 초안이 을을 `김형석`으로 지정하고 제12·16·18조에서 창작·음악·예술심사 역할을 부여함)
@@ -42,14 +42,14 @@
 
 | 선택지 | 구조 | 장점 | 단점 | 판단 |
 |---|---|---|---|---|
-| A | 기존 JV 40% 유지 | 상장 성공 시 지분 업사이드 큼 | IP 영구사용, 비용 우선상환, 무제한 책임, 상장협조 무제한 | 비추천. 보호조항 대폭 보강 시 예비안 |
+| A | JV 지분 30%로 조정 | 상대에게 성의를 보이면서 장기 업사이드를 남김 | IP 영구사용, 비용 우선상환, 무제한 책임, 상장협조 무제한은 여전히 제거 필요 | 예비안. 보호조항 대폭 보강 시 검토 |
 | B | 디렉터 계약 + 노느니 IP 계약 | 수익·책임·권리 분리, 중국 설득 쉬움 | 피디님 법인 실체 필요 | 기본안 |
 | C | B + 피디님 법인 지분/옵션 | 현금과 장기 업사이드 정렬 | 공직·백지신탁 시나리오 관리 필요 | 추천 |
 | D | B + 별도 지분보유 법인 | 지분 정리와 처분 쉬움 | 구조가 길어짐 | 지분가치가 커질 때 |
 | 제외 | 노느니가 지분 보유 | 없음 | 노느니가 중국 프로젝트 투자법인처럼 보임 | 제외 |
 
 판단: **B+C가 1순위**입니다.  
-피디님 법인이 디렉터 계약과 전략지분/옵션을 받고, 노느니는 사공이호 IP 제한적 사용권만 처리합니다.
+피디님 법인이 디렉터 계약과 30% 전략지분/옵션을 받고, 노느니는 사공이호 IP 제한적 사용권과 매출연동 러닝 로열티만 처리합니다.
 
 확신도: 90(근거: `09 피디님 계약 전략` 후반부 45억~47억/3억~5억 구조 수렴, 관계도 HTML 제26·39조 리스크)
 
@@ -65,7 +65,7 @@
 - Executive Producer Agreement
 - New IP Development Agreement
 - Music Supervision Agreement
-- 전략지분 또는 옵션
+- 30% 전략지분 또는 30% 지분 옵션
 
 중국 측 ↔ 노느니
 - SAGONG EE HO Limited IP License Agreement
@@ -73,9 +73,9 @@
 
 | 항목 | 내용 |
 |---|---|
-| 금액 | 피디님 법인 45억~47억, 노느니 3억~5억 |
-| 지분 | 피디님 법인이 전략지분 또는 옵션 보유 |
-| 장점 | 피디님 가치 9할 논리와 맞음. 노느니 매출을 키우지 않음 |
+| 금액 | 피디님 법인 45억~47억, 노느니 선급/최소보장금 3억~5억 + 매출연동 러닝 로열티 |
+| 지분 | 피디님 법인이 30% 전략지분 또는 30% 지분 옵션 보유 |
+| 장점 | 피디님 가치 9할 논리와 맞음. 노느니는 투자법인이 아니라 IP 권리자로 남음 |
 | 단점 | 피디님 법인 설립·회계·실체 필요 |
 | 계약 포인트 | 김형석 개인은 Key Creative Person, 계약·수익·책임은 법인 |
 
@@ -93,7 +93,7 @@
 
 | 항목 | 내용 |
 |---|---|
-| 금액 | 피디님 개인 45억~47억, 노느니 3억~5억 |
+| 금액 | 피디님 개인 45억~47억, 노느니 선급/최소보장금 3억~5억 + 매출연동 러닝 로열티 |
 | 지분 | 가능하면 개인 직접 지분은 피함. 불가피하면 옵션·양도 가능 구조 |
 | 장점 | 중국 측이 가장 직관적으로 이해 |
 | 단점 | 개인 세금, 개인 책임, 지분 노출, 공직 리스크 |
@@ -111,7 +111,7 @@
 - 사공이호 IP 제한적 사용권
 
 중국 측 ↔ 지분보유 법인 또는 SPV
-- 전략지분, 옵션, 상장 업사이드
+- 30% 전략지분, 30% 지분 옵션, 상장 업사이드
 ```
 
 | 항목 | 내용 |
@@ -134,8 +134,8 @@
 | 항목 | 수령 주체 | 금액 | 명목 |
 |---|---|---:|---|
 | A | 피디님 법인 | 45억~47억 | Creative Director / Executive Producer / New IP Development / Music Supervision |
-| B | 노느니 | 3억~5억 | SAGONG EE HO Phase 1 Limited IP License |
-| C | 피디님 법인 또는 지분보유 법인 | 별도 | 전략지분 또는 옵션 |
+| B | 노느니 | 선급/최소보장금 3억~5억 + 러닝 로열티 | SAGONG EE HO Phase 1 Limited IP License |
+| C | 피디님 법인 또는 지분보유 법인 | 별도 | 30% 전략지분 또는 30% 지분 옵션 |
 
 50억은 2026년 5월 현재 대략 RMB 22m~23m 수준입니다. 중국 A-list급 셀럽 엔도스먼트 기본 범위가 RMB 15m~45m 수준이라는 시장 자료가 있어, “피디님 디렉션 + 신규 IP 개발 + 음악 총괄 + 중국 특화 커스텀 작업” 패키지로는 방어 가능한 앵커입니다. 단, 이는 확정 시세가 아니라 협상용 벤치마크입니다.
 
@@ -164,8 +164,8 @@
 | 문서 | 당사자 | 목적 | 금액 |
 |---|---|---|---:|
 | Agreement A | 중국 측 ↔ 피디님 법인 또는 피디님 개인 | 디렉터·총괄·신규 IP 개발 | 45억~47억 |
-| Agreement B | 중국 측 ↔ 노느니 | 사공이호 IP 제한적 사용권 | 3억~5억 |
-| Equity/Option Letter | 중국 측 ↔ 피디님 법인 또는 지분보유 법인 | 전략지분·옵션 | 별도 |
+| Agreement B | 중국 측 ↔ 노느니 | 사공이호 IP 제한적 사용권, 선급/최소보장금, 러닝 로열티 | 3억~5억 + 매출연동 |
+| Equity/Option Letter | 중국 측 ↔ 피디님 법인 또는 지분보유 법인 | 30% 전략지분·옵션 | 별도 |
 
 ### 4.3 연동 조항
 
@@ -274,9 +274,9 @@ The aggregate liability shall not exceed the fees actually received by KHS Creat
 ### 5.5 지분 또는 옵션
 
 ```text
-The China Party shall grant KHS Creative Company a strategic equity interest or equity option as long-term success incentive for Kim Hyung Seok's creative contribution.
+The China Party shall grant KHS Creative Company a 30% strategic equity interest or 30% equity option as long-term success incentive for Kim Hyung Seok's creative contribution.
 Such equity or option shall not be held by Noneuni.
-The equity or option shall be transferable, sellable, waivable, or trustable if required by Korean public office, conflict-of-interest, blind trust, tax, or regulatory requirements.
+The equity or option shall be transferable, sellable, waivable, cash-settleable, or trustable if required by Korean public office, conflict-of-interest, blind trust, tax, foreign exchange, or regulatory requirements.
 ```
 
 확신도: 90(근거: 노느니는 IP 권리자 역할만 유지해야 하며, 공직자 주식백지신탁 기준은 3천만 원 초과)
@@ -311,17 +311,24 @@ Maximum Term:
 ### 6.2 금액
 
 ```text
-IP License Fee: KRW 300m~500m
+Upfront / Minimum Guarantee License Fee: KRW 300m~500m
 
 Payment:
 1. 70% upfront upon execution
 2. 30% upon delivery of approved IP asset package
 
-The IP License Fee is separate from project investment, operating expenses, shareholder loans, advances, recoupment, or cost reimbursement.
+Running Royalty:
+1. 3% of Net Sales from content, services, or project revenue directly using the Licensed IP
+2. 5% of Net Sales from merchandise, character goods, or commercialization
+3. 25% of Net Receipts from sublicense or relicensing revenue
+
+Net Sales means gross receipts minus VAT, refunds, and approved payment processing fees only. Marketing cost, labor cost, internal operating cost, affiliate fee, platform development cost, and listing cost shall not be deducted.
+
+The IP License Fee and Running Royalty are separate from project investment, operating expenses, shareholder loans, advances, recoupment, or cost reimbursement.
 ```
 
 노느니 금액은 너무 낮게 잡으면 안 됩니다.  
-다만 사공이호가 중국 내 검증 전 IP이고, 이번 거래의 핵심 가치가 피디님 디렉션과 신규 IP 개발이면 3억~5억은 설명 가능합니다.
+다만 사공이호가 중국 내 검증 전 IP이고, 이번 거래의 핵심 가치가 피디님 디렉션과 신규 IP 개발이면 선급/최소보장금 3억~5억 + 순매출 3% 러닝 로열티가 설명 가능한 기본안입니다. 굿즈·캐릭터 상품은 IP 기여가 직접적이므로 5%, 재라이선스 수령액은 25%를 별도 기준으로 둡니다.
 
 확신도: 70(근거: 노느니는 검증 전 IP의 제한적 Phase 1 사용 승인 주체라는 전략 가정)
 
@@ -367,7 +374,7 @@ Upon termination, the China Party shall immediately cease use, return or destroy
 | 제10조 상장 6~7개월 | 일정 과장, 미달 시 책임 전가 가능 | 디렉터 계약에서 상장 성공 보장 제외 |
 | 제20조 갑 선투입·운영비 계상 | 비용으로 계상 후 우선회수 가능 | 중국 측 비용은 한국 측 현금 보수와 분리 |
 | 제21조 을 사유 손실 전액 부담 | 소극적 이행·품질상 과실 등 주관적 책임 | 고의·중과실·직접손해·수령금 한도 |
-| 제22조 비용 우선상환 | 지분 40%여도 배당 전 비용 회수로 실익 감소 | 현금 선급금·디렉터피를 배당과 분리 |
+| 제22조 비용 우선상환 | 지분 30%를 받아도 배당 전 비용 회수로 실익 감소 | 현금 선급금·디렉터피·러닝 로열티를 배당과 분리 |
 | 제26조 광범위 IP 사용권 | 핵심 IP가 장기간 묶일 수 있음 | 한국 제외 글로벌, 조건부 장기 독점 사용권, 5년 단위 자동갱신, 갱신 조건 미충족 시 회수 |
 | 제27조 MAD POP 공동보유 | 합자회사 운영권으로 사실상 중국 측 통제 | 신규 IP 귀속·사용권을 별도 합의 |
 | 제28조 직무성과 귀속 | 파견 인력 창작물까지 합자회사 귀속 | 피디님 법인/노느니 기존 IP와 신규 IP 분리 |
@@ -420,11 +427,11 @@ It is intended to make each party's role, fee, IP ownership, liability, and long
 |---|---|
 | 한국 계약 | 피디님 법인 신설 전 계약 주체를 `김형석 또는 지정 법인`으로 둘 수 있는가 |
 | 한국 세무 | 피디님 법인 45억~47억 수령 시 법인세·배당·급여·원천세 구조 |
-| 중국 세무 | 디렉터피, 로열티, IP 사용료, 용역비의 중국 원천세·VAT 처리 |
+| 중국 세무 | 디렉터피, 러닝 로열티, IP 사용료, 용역비의 중국 원천세·VAT 처리 |
 | 중국 규제 | 음악·버추얼 아티스트·AI 생성 콘텐츠·데이터 국외이전 인허가 |
 | IP | 사공이호 원권리, 2차 창작, AI 학습, 상표·캐릭터 등록 |
 | 중재 | HKIAC 또는 SIAC 선택 가능성, 중국 내 집행 가능성 |
-| 지분 | 피디님 법인 또는 별도 법인의 옵션 보유, 매각·포기·백지신탁 가능 조항 |
+| 지분 | 피디님 법인 또는 별도 법인의 30% 지분/옵션 보유, 매각·포기·백지신탁·현금정산 가능 조항 |
 
 확신도: 90(근거: 계약·IP·세무·규제 리스크가 동시에 걸린 구조)
 
@@ -437,7 +444,7 @@ It is intended to make each party's role, fee, IP ownership, liability, and long
 | 개인 종합소득세 | 국세청은 2023~2025년 귀속 종합소득세에서 과세표준 10억 원 초과 구간 45%를 제시 | 개인 직접 수령은 세부담 큼 |
 | 법인세 | 국세청은 2026년 이후 영리법인 법인세율을 10%~25% 구간으로 제시 | 법인 수령 후 급여·배당 설계 여지 |
 | 주식백지신탁 | 공직윤리시스템은 재산공개대상자 등 보유 주식 총가액 3천만 원 초과 시 매각·백지신탁 의무를 설명 | 지분/옵션은 정리 가능 조항 필요 |
-| 중국 원천세 | PwC China는 비거주 기업의 배당·이자·로열티 등 중국 원천 패시브 소득에 통상 10% WHT 출발점을 제시 | IP 사용료·로열티 명목은 세무 검토 필요 |
+| 중국 원천세 | PwC China는 비거주 기업의 배당·이자·로열티 등 중국 원천 패시브 소득에 통상 10% WHT 출발점을 제시 | IP 사용료·러닝 로열티 명목은 세무 검토 필요 |
 | 중국 엔도스먼트 | PLTFRM은 2025년 중국 top-tier celebrity endorsement 기본 범위를 RMB 15m~45m로 제시 | 50억 앵커 방어 가능 |
 | 중국 IP 시장 | Licensing Magazine은 2024년 중국 라이선스 상품 소매액 RMB 155.09b, 로열티 RMB 5.99b를 제시 | IP·캐릭터·버추얼 엔터 시장성 근거 |
 | 가상 아이돌 시장 | China Meta Guide는 iiMedia 자료를 인용해 중국 core virtual idol/digital human 시장이 2024년 CNY 33.92b, 2030년 CNY 93.56b 전망이라고 정리 | 중국 측 사업 가설 자체는 시장 방향과 부합 |
@@ -451,8 +458,8 @@ It is intended to make each party's role, fee, IP ownership, liability, and long
 1. **기존 JV 계약서는 그대로 사인하지 않습니다.**
 2. 중국 측에는 “거절”이 아니라 “두 자산의 권리자와 책임자가 다르므로 투트랙으로 정리하자”고 설명합니다.
 3. 피디님 법인이 가능하면 1순위입니다. 법인 전 시간이 부족하면 `김형석 또는 지정 법인` 문구로 시작합니다.
-4. 노느니는 IP 사용료 3억~5억과 승인권만 둡니다. 지분은 보유하지 않습니다.
-5. 피디님 법인은 45억~47억과 전략지분/옵션을 받습니다.
+4. 노느니는 선급/최소보장금 3억~5억, 순매출 3% 러닝 로열티, 굿즈·상품화 5%, 재라이선스 수령액 25%, 승인권을 둡니다. 지분은 보유하지 않습니다.
+5. 피디님 법인은 45억~47억과 30% 전략지분/옵션을 받습니다.
 6. 중국 측 선투입금, 상장 비용, 사업 손실은 피디님 법인·노느니에 상환 청구하지 못하게 합니다.
 7. IP는 한국 제외 글로벌, MAD POP 및 합의 프로젝트, 5년 단위 조건부 자동갱신 구조로 둡니다.
 8. HKIAC 또는 SIAC 중재를 우선 요구합니다. 최소한 베이징중재 단독 구조는 피합니다.

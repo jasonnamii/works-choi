@@ -32,16 +32,15 @@ This Side Letter is linked to:
 
 ## 3. Equity or Option Grant
 
-The China Party shall grant KHS Holder one of the following:
+The China Party shall grant KHS Holder a 30% equity interest in `[project company / holding company]` or an equivalent 30% equity option.
 
 | Option | Structure | Notes |
 |---|---|---|
-| A | `[●]%` equity interest in `[project company / holding company]` | direct equity |
-| B | option to acquire `[●]%` equity interest | exercisable upon milestone |
-| C | phantom equity or cash-settled success bonus | if direct equity is not feasible |
-| D | listing / exit bonus | if public office, tax, or regulatory constraints make equity difficult |
+| A | 30% equity interest in `[project company / holding company]` | base position |
+| B | option to acquire 30% equity interest | if direct equity is difficult due to corporate law, foreign exchange, tax, or public office risk |
+| C | phantom equity or cash-settled success bonus equivalent to 30% equity value | if direct equity or option exercise is difficult |
 
-The final structure shall be determined after legal, tax, foreign exchange, and public office risk review.
+The definitive documents shall include protections so that the 30% economic value is not impaired through dilution, restructuring, circumvention, or affiliate transactions.
 
 ---
 
@@ -59,15 +58,15 @@ The equity or option shall not be held by Noneuni unless separately agreed for a
 
 ## 5. Vesting and Milestones
 
-The equity or option may vest based on the following milestones:
+The equity or option shall vest up to a total of 30% based on the following milestones:
 
 | Milestone | Vesting |
 |---|---:|
-| execution of definitive agreements | `[●]%` |
-| delivery of creative direction package | `[●]%` |
-| completion of China localization milestone | `[●]%` |
-| official Phase 1 launch | `[●]%` |
-| financing or listing milestone | `[●]%` |
+| execution of definitive agreements | 5% |
+| delivery of creative direction package | 5% |
+| completion of China localization milestone | 5% |
+| official Phase 1 launch | 5% |
+| financing or listing milestone | 10% |
 
 No vesting condition shall impose personal liability, capital contribution obligation, project loss obligation, or listing guarantee on KHS or KHS Holder.
 

@@ -23,8 +23,8 @@ Agreement A and Agreement B are interdependent project documents. Neither agreem
 | Agreement | Parties | Role |
 |---|---|---|
 | Agreement A | China Party and KHS Creative Company or Kim Hyung Seok | Creative direction, executive production, music supervision, new IP development |
-| Agreement B | China Party and Noneuni | Limited license of SAGONG EE HO IP |
-| Equity / Option Letter | China Party and KHS Creative Company or a designated equity holding entity | Strategic equity or option incentive |
+| Agreement B | China Party and Noneuni | Limited license of SAGONG EE HO IP, upfront / minimum guarantee, and sales-based running royalty |
+| Equity / Option Letter | China Party and KHS Creative Company or a designated equity holding entity | 30% strategic equity or 30% equity option |
 
 Kim Hyung Seok shall be identified as the Key Creative Person for Agreement A.
 
@@ -36,9 +36,9 @@ Noneuni shall be identified as the rights holder or authorized licensor of SAGON
 |---|---|
 | Total Initial Package | KRW 5.0 billion or above |
 | Agreement A Fee | KRW 4.5 billion to KRW 4.7 billion |
-| Agreement B Fee | KRW 300 million to KRW 500 million |
-| Equity / Option | To be granted to KHS Creative Company or a designated equity holding entity, not to Noneuni |
-| Payment Character | Non-refundable creative fee and license fee, separate from project investment, shareholder loans, advances, operating costs, or recoupment |
+| Agreement B Fee | Upfront / minimum guarantee of KRW 300 million to KRW 500 million + sales-based running royalty on Net Sales |
+| Equity / Option | 30% equity interest or 30% equity option to be granted to KHS Creative Company or a designated equity holding entity, not to Noneuni |
+| Payment Character | Non-refundable creative fee, license fee, and running royalty, separate from project investment, shareholder loans, operating costs, or recoupment |
 
 Payment milestone for Agreement A:
 
@@ -49,12 +49,22 @@ Payment milestone for Agreement A:
 | China Localization / New IP Development Milestone | 20% |
 | Launch Readiness Review | 10% |
 
-Payment milestone for Agreement B:
+Upfront / minimum guarantee payment milestone for Agreement B:
 
 | Milestone | Payment |
 |---|---:|
 | Signing | 70% |
 | Delivery of approved IP asset package | 30% |
+
+Sales-based running royalty for Agreement B:
+
+| Revenue Source | Royalty |
+|---|---:|
+| content, service, or project revenue directly using Licensed IP | 3% of Net Sales |
+| merchandise, character goods, or commercialization revenue | 5% of Net Sales |
+| sublicense or relicensing receipts | 25% of Net Receipts |
+
+`Net Sales` means gross receipts less VAT, refunds, and approved payment processing fees only. Marketing costs, labor costs, internal operating costs, affiliate fees, platform development costs, and listing costs shall not be deducted.
 
 ## 4. Agreement A Scope
 
@@ -140,11 +150,11 @@ The China Party shall not demand refund, reimbursement, set-off, clawback, or re
 
 ## 9. Equity / Option
 
-Strategic equity or option may be granted to KHS Creative Company or a designated equity holding entity as long-term success incentive.
+The China Party shall grant KHS Creative Company or a designated equity holding entity a 30% equity interest in the project company or designated holding company, or an equivalent 30% equity option, as long-term success incentive.
 
 Such equity or option shall not be granted to Noneuni.
 
-The equity or option shall be structured to allow sale, transfer, waiver, blind trust, or other required treatment if Korean public office, conflict-of-interest, tax, regulatory, or compliance requirements arise.
+The equity or option shall be structured to allow sale, transfer, waiver, blind trust, cash settlement, or other required treatment if Korean public office, conflict-of-interest, tax, foreign exchange, regulatory, or compliance requirements arise.
 
 ## 10. Governing Law and Dispute Resolution
 
@@ -171,6 +181,6 @@ PRC law may be discussed only if the arbitration seat is Hong Kong and the arbit
 1. Align on this Master Term Sheet.
 2. Prepare Agreement A and Agreement B.
 3. Confirm payment schedule, tax handling, and remittance method.
-4. Confirm equity or option structure.
+4. Confirm 30% equity or 30% equity option structure.
 5. Confirm IP asset list and approval process.
 6. Final legal review by Korean and Chinese counsel.

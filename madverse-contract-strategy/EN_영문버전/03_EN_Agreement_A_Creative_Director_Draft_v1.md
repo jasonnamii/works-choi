@@ -77,13 +77,13 @@ Fees under this Agreement shall not be treated as shareholder loans, reimbursabl
 
 ## 6. Equity or Option
 
-As long-term success incentive for Kim Hyung Seok's creative contribution, the China Party shall grant the Creative Company, or its designated equity holding entity, strategic equity or an equity option in `[project company / holding company]`.
+As long-term success incentive for Kim Hyung Seok's creative contribution, the China Party shall grant the Creative Company, or its designated equity holding entity, a 30% strategic equity interest or 30% equity option in `[project company / holding company]`.
 
 Such equity or option shall:
 
 1. not be granted to Noneuni;
 2. not impose personal liability on Kim Hyung Seok;
-3. be transferable, sellable, waivable, or trustable if required by Korean public office, conflict-of-interest, tax, regulatory, or compliance requirements;
+3. be transferable, sellable, waivable, cash-settleable, or trustable if required by Korean public office, conflict-of-interest, tax, foreign exchange, regulatory, or compliance requirements;
 4. be documented in a separate equity or option agreement.
 
 ## 7. Intellectual Property

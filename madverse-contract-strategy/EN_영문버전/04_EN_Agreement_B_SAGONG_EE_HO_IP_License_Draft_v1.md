@@ -54,27 +54,37 @@ Licensor grants Licensee a limited, non-transferable, non-sublicensable, project
 
 Any use outside the above scope requires prior written approval from Licensor.
 
-## 5. License Fee
+## 5. License Fee and Sales-Based Running Royalty
 
-Licensee shall pay Licensor a license fee of KRW `[300 million to 500 million]`.
+Licensee shall pay Licensor an upfront / minimum guarantee license fee of KRW `[300 million to 500 million]`.
 
-Payment schedule:
+License fee payment schedule:
 
 | Milestone | Payment |
 |---|---:|
 | Signing | 70% |
 | Delivery of approved IP asset package | 30% |
 
-The license fee is separate from:
+In addition to the license fee, Licensee shall pay the following sales-based running royalty:
+
+| Revenue Source | Royalty |
+|---|---:|
+| content, service, or project revenue directly using Licensed IP | 3% of Net Sales |
+| merchandise, character goods, or commercialization revenue | 5% of Net Sales |
+| sublicense or relicensing receipts | 25% of Net Receipts |
+
+`Net Sales` means gross receipts less VAT, refunds, and approved payment processing fees only. Marketing costs, labor costs, internal operating costs, affiliate fees, platform development costs, and listing costs shall not be deducted.
+
+The license fee and running royalty are separate from:
 
 1. project investment;
 2. operating costs;
 3. shareholder loans;
-4. advances;
+4. recoupable advances;
 5. listing costs;
 6. recoupment or clawback.
 
-The license fee is non-refundable except in case of fraud or willful non-delivery finally determined by arbitration.
+The license fee and properly earned running royalty are non-refundable except in case of fraud or willful non-delivery finally determined by arbitration.
 
 ## 6. Restrictions
 

@@ -40,6 +40,8 @@ This SAGONG EE HO Limited IP License Agreement (this `Agreement`) is entered int
 | `Term` | initial 5 years, automatically renewable in 5-year periods subject to conditions |
 | `Approved Materials` | materials approved in writing by Licensor |
 | `Derivative Work` | adaptation, modification, spin-off, virtual idol version, story, character, design, music-linked expression, merchandise, or other work based on Licensed IP |
+| `Net Sales` | gross receipts actually received or receivable by Licensee, its affiliates, or sublicensees in connection with use of Licensed IP, less VAT, refunds, and approved payment processing fees only. Marketing costs, labor costs, internal operating costs, affiliate fees, platform development costs, and listing costs shall not be deducted |
+| `Running Royalty` | sales-based royalty payable based on Net Sales or sublicense Net Receipts |
 | `Linked Creative Agreement` | Creative Director / Executive Producer / New IP Development Agreement |
 
 ---
@@ -86,25 +88,39 @@ This SAGONG EE HO Limited IP License Agreement (this `Agreement`) is entered int
 
 ---
 
-## 6. License Fee
+## 6. License Fee and Sales-Based Running Royalty
 
-6.1 Licensee shall pay Licensor a license fee of KRW `[300,000,000 to 500,000,000]` (`License Fee`).
+6.1 Licensee shall pay Licensor an upfront / minimum guarantee license fee of KRW `[300,000,000 to 500,000,000]` (`License Fee`).
 
-6.2 Payment schedule:
+6.2 License Fee payment schedule:
 
 | Milestone | Payment |
 |---|---:|
 | Execution of this Agreement | 70% |
 | Delivery of approved IP asset package | 30% |
 
-6.3 The License Fee is non-refundable except in case of fraud or willful non-delivery finally determined by arbitration.
+6.3 In addition to the License Fee, Licensee shall pay Licensor the following sales-based Running Royalty.
 
-6.4 The License Fee shall not be treated as:
+| Revenue Source | Royalty |
+|---|---:|
+| content, service, or project revenue directly using Licensed IP | 3% of Net Sales |
+| merchandise, character goods, or commercialization revenue | 5% of Net Sales |
+| sublicense or relicensing receipts | 25% of Net Receipts |
+
+6.4 Running Royalty shall be calculated and paid within `[30]` days after the end of each calendar quarter.
+
+6.5 Licensee shall provide Licensor with quarterly sales reports, usage reports, sublicense receipt details, and related accounting records.
+
+6.6 Licensor may audit the records used to calculate Running Royalty once per year upon reasonable prior notice. If the audit reveals an underpayment exceeding 5% of the amount paid for the relevant period, Licensee shall bear the audit cost.
+
+6.7 The License Fee and properly earned Running Royalty are non-refundable except in case of fraud or willful non-delivery finally determined by arbitration.
+
+6.8 The License Fee and Running Royalty shall not be treated as:
 
 1. project investment;
 2. operating cost;
 3. shareholder loan;
-4. advance;
+4. recoupable advance;
 5. listing cost;
 6. amount subject to recoupment, clawback, refund, or set-off.
 
@@ -116,7 +132,7 @@ This SAGONG EE HO Limited IP License Agreement (this `Agreement`) is entered int
 
 7.2 Any legally required withholding shall be withheld and remitted by Licensee, and Licensee shall provide official withholding tax certificates.
 
-7.3 Licensee shall not re-characterize the License Fee as equity contribution, project advance, loan, operating cost, or recoupable expense without Licensor's prior written consent.
+7.3 Licensee shall not re-characterize the License Fee or Running Royalty as equity contribution, project advance, loan, operating cost, or recoupable expense without Licensor's prior written consent.
 
 ---
 
@@ -289,7 +305,7 @@ Upon expiration or termination, Licensee shall:
 5. transfer or close accounts using SAGONG EE HO;
 6. certify compliance in writing;
 7. stop using Derivative Works;
-8. not claim refund of properly earned and paid License Fees.
+8. not claim refund of properly earned and paid License Fees or Running Royalties.
 
 ---
 
@@ -311,7 +327,7 @@ Upon expiration or termination, Licensee shall:
 10. business interruption;
 11. penalties not directly caused by Licensor.
 
-19.3 Aggregate liability of Licensor shall not exceed the License Fee actually received by Licensor.
+19.3 Aggregate liability of Licensor shall not exceed the License Fee and Running Royalty actually received by Licensor.
 
 19.4 Licensee shall indemnify Licensor against claims arising from unauthorized use, regulatory violation, sublicensing, AI training, derivative use, platform operation, advertising, data processing, or third-party exploitation by Licensee.
 
