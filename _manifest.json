@@ -294,5 +294,13 @@
     "last_kind": "new",
     "last_sha256": "65a8a63875e2db0f93f054931512b3b0cf5c1e200e190bf2a4edde9e108f321e",
     "timestamp": "2026-05-26T11:58:28.019478Z"
+  },
+  "madverse-contract-strategy": {
+    "slug": "madverse-contract-strategy",
+    "mode": "choi",
+    "url": "https://works.choi.build/madverse-contract-strategy/",
+    "last_kind": "new",
+    "last_sha256": "30277307aa29262dbdc4b17831a37da1bf3d9c31c0091ee4df4a6a567bda47ef",
+    "timestamp": "2026-05-27T08:58:45.004283Z"
   }
 }
