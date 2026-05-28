@@ -295,12 +295,12 @@
     "last_sha256": "65a8a63875e2db0f93f054931512b3b0cf5c1e200e190bf2a4edde9e108f321e",
     "timestamp": "2026-05-26T11:58:28.019478Z"
   },
-  "madverse-contract-strategy": {
-    "slug": "madverse-contract-strategy",
+  "madpop-contract-v2": {
+    "slug": "madpop-contract-v2",
     "mode": "choi",
-    "url": "https://works.choi.build/madverse-contract-strategy/",
-    "last_kind": "redeploy",
-    "last_sha256": "52594507cc9eb414b8c80e5d816f2c64718ed3129058e9c495ede5bdfd4b61e6",
-    "timestamp": "2026-05-27T10:22:57.333299Z"
+    "url": "https://works.choi.build/madpop-contract-v2/",
+    "last_kind": "new",
+    "last_sha256": "26c3c07058545f00c01d08de65a5ba8a83077050c7b574da09a8cc12d097ed77",
+    "timestamp": "2026-05-28T04:14:55.983997Z"
   }
 }
